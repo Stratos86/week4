@@ -4,9 +4,9 @@ h1 {
   font-weight: 600;
 }
 .row {
-  font-size: 18px;
+  height: 30px;
 }
-.groceries {
-  font-size: 16px;
-  height: 24px;
+div {
+  font-size: 20px;
+  height: 38px;
 }
