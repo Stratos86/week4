@@ -1,0 +1,12 @@
+h1 {
+  height: auto;
+  font-size: 48px;
+  font-weight: 600;
+}
+.row {
+  font-size: 18px;
+}
+.groceries {
+  font-size: 16px;
+  height: 24px;
+}
